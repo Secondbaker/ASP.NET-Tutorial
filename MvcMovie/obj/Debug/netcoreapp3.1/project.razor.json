@@ -20521,6 +20521,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Shared\\_BadLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_BadLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
