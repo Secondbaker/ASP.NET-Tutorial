@@ -286,3 +286,4 @@ __pycache__/
 # End of https://www.gitignore.io/api/aspnetcore,visualstudiocode
 MvcMovie/MvcMovie.db
 MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.csprojAssemblyReference.cache
+MvcMovie/MvcMovie.db
