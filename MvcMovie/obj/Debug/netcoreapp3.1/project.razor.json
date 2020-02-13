@@ -20521,6 +20521,26 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Shared\\_BadLayout.cshtml",
       "TargetPath": "Views\\Shared\\_BadLayout.cshtml",
       "FileKind": "mvc"
@@ -20548,6 +20568,11 @@
     {
       "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
