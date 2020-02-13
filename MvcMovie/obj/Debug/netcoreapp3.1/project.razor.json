@@ -20516,6 +20516,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\secon\\OneDrive\\Documents\\GitHub\\ASP.NET-Tutorial\\MvcMovie\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
